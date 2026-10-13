@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+audit_phase01.py
+spotcheck.py
+test_densify.py
+PROBLEM_STATEMENT.docx
+hrone_attendance_playbook.md
